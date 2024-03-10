@@ -1,6 +1,6 @@
 # TUGAS 3 MOBILE COMPUTING
-============================================================
-** Dosen Pengampuh  : Susi MArianingsi M.kom **
+
+** Dosen Pengampuh  : Susi Marianingsi M.kom **
 --------------------------------------------------------------
 Tugas membuat tampilan menggunakan andoid studio :
  * XML
